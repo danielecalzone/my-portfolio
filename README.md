@@ -2,6 +2,10 @@
 
 This project is a single-page portfolio showcasing my work and skills. It's built using React with Vite as the build tool, and it utilizes various libraries and tools for UI components, form management, validation, and more.
 
+## Live Demo
+
+[View Live Demo](https://daniele-calzone-portfolio.netlify.app/)
+
 ## Libraries Used
 
 ### Chakra UI
